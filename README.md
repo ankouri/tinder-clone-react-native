@@ -3,9 +3,11 @@
 
 ## Technologies Used
 1.  React-native
-2.  Tailwind-rn
-3.  Google Auth
-4.  Real time messagin with firebase
+2.  React-navigation
+3.  Tailwind-rn
+4.  Google Auth
+5.  firebase firestore and auth v9
+6.  Real time messagin with firebase
 
 ### App Preview : Screenshots
 
